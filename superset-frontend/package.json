@@ -181,7 +181,7 @@
     "regenerator-runtime": "^0.13.5",
     "rison": "^0.1.1",
     "scroll-into-view-if-needed": "^2.2.28",
-    "shortid": "^2.2.6",
+    "shortid": "^2.2.16",
     "urijs": "^1.19.6",
     "use-immer": "^0.4.2",
     "use-query-params": "^1.1.9"
